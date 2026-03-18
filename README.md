@@ -34,7 +34,7 @@
 
 ### 📫 Как со мной связаться
 
-- Telegram: [@твой_username](https://t.me/avetiswikki)
+- Telegram: [https://t.me/avetiswikki]
 - Почта: [artem.avetis@yandex.ru]
 
 ---
